@@ -1,1 +1,1 @@
-# Active-Search-Bar
+You may actually search Google through this search bar, there is a drop-down for the account button. However, this of course has no official links (besides what's on my own personal computer), and there is a settings button. I haven't been able to figure out how to display the drop-down on the left side of the button, therefore I've let it float to the left corner whereas with Google it's in the right corner. 
